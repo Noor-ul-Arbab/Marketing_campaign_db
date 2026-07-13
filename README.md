@@ -11,7 +11,7 @@ Marketing Campaign Database built using MySQL. This project demonstrates relatio
 ---
 
 <p align="center">
-<img src="images/banner.png" width="100%">
+<img src="WhatsApp Image 2026-07-13 at 7.48.35 AM.jpeg" width="100%">
 </p>
 
 ---
