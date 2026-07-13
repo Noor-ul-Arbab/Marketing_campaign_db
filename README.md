@@ -52,7 +52,7 @@ The database consists of five related tables:
 ---
 
 <p align="center">
-<img src="images/ER_Diagram.png" width="90%">
+<img src="WhatsApp Image 2026-07-13 at 7.45.32 AM.jpeg" width="90%">
 </p>
 
 ---
