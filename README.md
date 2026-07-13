@@ -106,22 +106,6 @@ This project covers the following SQL concepts:
 
 ---
 
-# 📂 Project Structure
-
-```
-Marketing-Campaign-Database/
-│
-├── Marketing_Campaign_DB.sql
-├── README.md
-│
-└── images/
-    ├── banner.png
-    ├── ER_Diagram.png
-    └── footer.png
-```
-
----
-
 # 🚀 Future Improvements
 
 - ROI Calculation
