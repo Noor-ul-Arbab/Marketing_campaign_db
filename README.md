@@ -126,7 +126,9 @@ This project covers the following SQL concepts:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting!;Hope+You+Liked+This+Project!;Don't+Forget+to+⭐+the+Repository!;Happy+Learning!+🚀" />
+<p align="center">
+<img src="WhatsApp Image 2026-07-13 at 8.11.42 AM.jpeg" width="100%">
+</p>
 
 ### ⭐ If you found this project helpful, please consider giving it a Star!
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Thanks+for+your+time;Keep+Learning+%26+Building;Happy+Coding+🚀" />
