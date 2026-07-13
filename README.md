@@ -4,7 +4,7 @@ Marketing Campaign Database built using MySQL. This project demonstrates relatio
 
 # 📊 Marketing Campaign Database
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Welcome+to+Marketing+Campaign+Database;MySQL+%7C+SQL+Project;Database+Design+%7C+Business+Analytics;Built+by+Noor ul Arbab" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Welcome+to+Marketing+Campaign+Database;MySQL+%7C+SQL+Project;Database+Design+%7C+Business+Analytics;Built+by+Noor-ul-Arbab"/>
 
 </div>
 
